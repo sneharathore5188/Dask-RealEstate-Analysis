@@ -81,6 +81,4 @@ print("Dask client stopped.")
 ## Conclusion
 This project effectively utilizes Dask for handling large datasets efficiently. By leveraging parallel computing, the analysis is faster and scalable. The insights gained from the dataset provide valuable information on how zoning categories impact real estate pricing.
 
-## Author
-[Your Name]
 
